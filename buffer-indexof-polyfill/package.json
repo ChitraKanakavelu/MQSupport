@@ -33,7 +33,7 @@
   "description": "This is a polyfill for Buffer#indexOf introduced in NodeJS 4.0.",
   "devDependencies": {
     "chai": "^3.3.0",
-    "eslint": "^1.10.3",
+    "eslint": "^6.6.0",
     "mocha": "^2.3.3"
   },
   "engines": {
